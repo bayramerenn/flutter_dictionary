@@ -1,6 +1,12 @@
+
+# The original owner of the design
+https://github.com/mukireus/turkish-dictionary/tree/master/sozluk
+
+only api has been added
+
 # flutter_dictionary
 
-A new Flutter application.
+
 
 ## Getting Started
 
